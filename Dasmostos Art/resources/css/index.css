@@ -1,0 +1,67 @@
+body {
+
+
+  margin-top:100px;
+  margin-left:100px;
+  margin-right:100px;
+  margin-bottom: 100px
+
+
+
+  padding: 0;
+}
+html{
+  display:block;
+}
+
+
+#brush {
+  background-color: MediumSpringGreen;
+}
+
+#frame {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+.price {
+  color:blue;
+  font-size:20px;
+}
+
+h1 {
+  background-image:   url("C:/users/mark/desktop/projects/Dasmostos Art/resources/images/pattern.jpeg");
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  font-family: "Helvetica";
+  text-align: center;
+
+
+}
+h2 {
+  font-weight: bold;
+  font-size: 32px;
+  color:white;
+  line-height: 24px;
+  text-align: left;
+  font-family: "Helvetica";
+}
+
+h3 {
+  font-family: "Helvetica"
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+
+    font-family: "Helvetica";
+    font-size: 16px
+}
